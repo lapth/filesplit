@@ -196,6 +196,39 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Common.dll": {}
+        }
+      },
+      "Join/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Join.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Join.dll": {}
+        }
+      },
+      "Split/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Split.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Split.dll": {}
+        }
       }
     }
   },
@@ -656,11 +689,28 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "Common/1.0.0": {
+      "type": "project",
+      "path": "../Common/Common.csproj",
+      "msbuildProject": "../Common/Common.csproj"
+    },
+    "Join/1.0.0": {
+      "type": "project",
+      "path": "../Join/Join.csproj",
+      "msbuildProject": "../Join/Join.csproj"
+    },
+    "Split/1.0.0": {
+      "type": "project",
+      "path": "../Split/Split.csproj",
+      "msbuildProject": "../Split/Split.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "Microsoft.NETCore.App >= 2.0.0"
+      "Join >= 1.0.0",
+      "Microsoft.NETCore.App >= 2.0.0",
+      "Split >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -695,7 +745,14 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\lapth\\source\\repos\\filesplit\\FileSplit\\Join\\Join.csproj": {
+              "projectPath": "C:\\Users\\lapth\\source\\repos\\filesplit\\FileSplit\\Join\\Join.csproj"
+            },
+            "C:\\Users\\lapth\\source\\repos\\filesplit\\FileSplit\\Split\\Split.csproj": {
+              "projectPath": "C:\\Users\\lapth\\source\\repos\\filesplit\\FileSplit\\Split\\Split.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

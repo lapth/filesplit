@@ -1,6 +1,4 @@
 C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\bin\Release\netcoreapp2.0\FileSplit.deps.json
-C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\bin\Release\netcoreapp2.0\FileSplit.runtimeconfig.json
-C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\bin\Release\netcoreapp2.0\FileSplit.runtimeconfig.dev.json
 C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\bin\Release\netcoreapp2.0\FileSplit.dll
 C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\bin\Release\netcoreapp2.0\FileSplit.pdb
 C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\bin\Release\netcoreapp2.0\Common.dll
@@ -15,3 +13,5 @@ C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\obj\Release\netcoreapp
 C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\obj\Release\netcoreapp2.0\FileSplit.AssemblyInfo.cs
 C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\obj\Release\netcoreapp2.0\FileSplit.dll
 C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\obj\Release\netcoreapp2.0\FileSplit.pdb
+C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\bin\Release\netcoreapp2.0\FileSplit.runtimeconfig.json
+C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\bin\Release\netcoreapp2.0\FileSplit.runtimeconfig.dev.json

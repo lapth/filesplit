@@ -7,17 +7,29 @@ namespace Split
 {
     public class FileSplit : IFileSplit
     {
-        private const int BUFFER_SIZE = 1024 * 1024;
+        private const int BUFFER_SIZE = 10 * 1024 * 1024;
 
         public void SplitFile(string orgFileName, string outPath, long subFileSize)
         {
             if (string.IsNullOrEmpty(orgFileName)
                || string.IsNullOrEmpty(outPath)
-               || !File.Exists(orgFileName)
-               || !Directory.Exists(outPath)
+               || !File.Exists(orgFileName)               
                || subFileSize <= 0)
             {
                 throw new FileSplitException("File Split parameters wrong!", "001");
+            }
+
+            if (!Directory.Exists(outPath))
+            {
+                Console.WriteLine("[{0}] does not exist. Trying to create it!", outPath);
+                try
+                {
+                    Directory.CreateDirectory(outPath);
+                } catch (Exception ex)
+                {
+                    Console.WriteLine("Can not create folder [{0}], error with: " + ex.Message, outPath);
+                    throw new FileSplitException("File Split parameters wrong!", "001");
+                }
             }
 
             Console.WriteLine("Spliting the file [{0}] to [{1}] with file size [{2}] bytes.", orgFileName, outPath, subFileSize);

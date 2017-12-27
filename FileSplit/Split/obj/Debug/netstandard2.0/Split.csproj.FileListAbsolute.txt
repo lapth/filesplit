@@ -1,0 +1,11 @@
+C:\Users\lapth\source\repos\filesplit\FileSplit\Split\bin\Debug\netstandard2.0\Split.deps.json
+C:\Users\lapth\source\repos\filesplit\FileSplit\Split\bin\Debug\netstandard2.0\Split.dll
+C:\Users\lapth\source\repos\filesplit\FileSplit\Split\bin\Debug\netstandard2.0\Split.pdb
+C:\Users\lapth\source\repos\filesplit\FileSplit\Split\bin\Debug\netstandard2.0\Common.dll
+C:\Users\lapth\source\repos\filesplit\FileSplit\Split\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\lapth\source\repos\filesplit\FileSplit\Split\obj\Debug\netstandard2.0\Split.csprojResolveAssemblyReference.cache
+C:\Users\lapth\source\repos\filesplit\FileSplit\Split\obj\Debug\netstandard2.0\Split.csproj.CoreCompileInputs.cache
+C:\Users\lapth\source\repos\filesplit\FileSplit\Split\obj\Debug\netstandard2.0\Split.AssemblyInfoInputs.cache
+C:\Users\lapth\source\repos\filesplit\FileSplit\Split\obj\Debug\netstandard2.0\Split.AssemblyInfo.cs
+C:\Users\lapth\source\repos\filesplit\FileSplit\Split\obj\Debug\netstandard2.0\Split.dll
+C:\Users\lapth\source\repos\filesplit\FileSplit\Split\obj\Debug\netstandard2.0\Split.pdb

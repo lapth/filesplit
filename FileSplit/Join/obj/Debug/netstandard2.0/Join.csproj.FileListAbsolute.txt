@@ -1,0 +1,11 @@
+C:\Users\lapth\source\repos\filesplit\FileSplit\Join\bin\Debug\netstandard2.0\Join.deps.json
+C:\Users\lapth\source\repos\filesplit\FileSplit\Join\bin\Debug\netstandard2.0\Join.dll
+C:\Users\lapth\source\repos\filesplit\FileSplit\Join\bin\Debug\netstandard2.0\Join.pdb
+C:\Users\lapth\source\repos\filesplit\FileSplit\Join\bin\Debug\netstandard2.0\Common.dll
+C:\Users\lapth\source\repos\filesplit\FileSplit\Join\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\lapth\source\repos\filesplit\FileSplit\Join\obj\Debug\netstandard2.0\Join.csprojResolveAssemblyReference.cache
+C:\Users\lapth\source\repos\filesplit\FileSplit\Join\obj\Debug\netstandard2.0\Join.csproj.CoreCompileInputs.cache
+C:\Users\lapth\source\repos\filesplit\FileSplit\Join\obj\Debug\netstandard2.0\Join.AssemblyInfoInputs.cache
+C:\Users\lapth\source\repos\filesplit\FileSplit\Join\obj\Debug\netstandard2.0\Join.AssemblyInfo.cs
+C:\Users\lapth\source\repos\filesplit\FileSplit\Join\obj\Debug\netstandard2.0\Join.dll
+C:\Users\lapth\source\repos\filesplit\FileSplit\Join\obj\Debug\netstandard2.0\Join.pdb

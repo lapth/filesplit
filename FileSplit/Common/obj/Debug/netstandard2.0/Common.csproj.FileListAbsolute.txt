@@ -1,0 +1,9 @@
+C:\Users\lapth\source\repos\filesplit\FileSplit\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\lapth\source\repos\filesplit\FileSplit\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\lapth\source\repos\filesplit\FileSplit\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\lapth\source\repos\filesplit\FileSplit\Common\obj\Debug\netstandard2.0\Common.csprojResolveAssemblyReference.cache
+C:\Users\lapth\source\repos\filesplit\FileSplit\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\lapth\source\repos\filesplit\FileSplit\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\lapth\source\repos\filesplit\FileSplit\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\lapth\source\repos\filesplit\FileSplit\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\lapth\source\repos\filesplit\FileSplit\Common\obj\Debug\netstandard2.0\Common.pdb

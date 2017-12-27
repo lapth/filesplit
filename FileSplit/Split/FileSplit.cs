@@ -17,7 +17,7 @@ namespace Split
                || !Directory.Exists(outPath)
                || subFileSize <= 0)
             {
-                throw new FileSplitException("File Split parameter wrong!", "001");
+                throw new FileSplitException("File Split parameters wrong!", "001");
             }
 
             Console.WriteLine("Spliting the file [{0}] to [{1}] with file size [{2}] bytes.", orgFileName, outPath, subFileSize);

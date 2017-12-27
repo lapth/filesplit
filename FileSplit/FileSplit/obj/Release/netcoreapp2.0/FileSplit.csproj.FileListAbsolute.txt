@@ -1,0 +1,17 @@
+C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\bin\Release\netcoreapp2.0\FileSplit.deps.json
+C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\bin\Release\netcoreapp2.0\FileSplit.runtimeconfig.json
+C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\bin\Release\netcoreapp2.0\FileSplit.runtimeconfig.dev.json
+C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\bin\Release\netcoreapp2.0\FileSplit.dll
+C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\bin\Release\netcoreapp2.0\FileSplit.pdb
+C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\bin\Release\netcoreapp2.0\Common.dll
+C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\bin\Release\netcoreapp2.0\Join.dll
+C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\bin\Release\netcoreapp2.0\Split.dll
+C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\bin\Release\netcoreapp2.0\Join.pdb
+C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\bin\Release\netcoreapp2.0\Split.pdb
+C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\bin\Release\netcoreapp2.0\Common.pdb
+C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\obj\Release\netcoreapp2.0\FileSplit.csprojResolveAssemblyReference.cache
+C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\obj\Release\netcoreapp2.0\FileSplit.csproj.CoreCompileInputs.cache
+C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\obj\Release\netcoreapp2.0\FileSplit.AssemblyInfoInputs.cache
+C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\obj\Release\netcoreapp2.0\FileSplit.AssemblyInfo.cs
+C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\obj\Release\netcoreapp2.0\FileSplit.dll
+C:\Users\lapth\source\repos\filesplit\FileSplit\FileSplit\obj\Release\netcoreapp2.0\FileSplit.pdb

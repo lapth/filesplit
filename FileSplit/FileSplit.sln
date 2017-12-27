@@ -5,11 +5,11 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileSplit", "FileSplit\FileSplit.csproj", "{4B55214F-4039-4231-8E86-EFE3DEE00F07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Split", "Split\Split.csproj", "{18A352E6-4584-4876-A294-F4381EC4D79C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Split", "Split\Split.csproj", "{18A352E6-4584-4876-A294-F4381EC4D79C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Join", "Join\Join.csproj", "{20F60499-5CBB-4A72-8BBF-2B4A97C022FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Join", "Join\Join.csproj", "{20F60499-5CBB-4A72-8BBF-2B4A97C022FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{11A05373-1766-449F-8DBE-71CB91E4A414}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{11A05373-1766-449F-8DBE-71CB91E4A414}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\FileSplit",
+    "\\FileSplit\\Common",
+    "\\FileSplit\\FileSplit"
   ],
+  "SelectedNode": "\\FileSplit\\Common\\FileHelper.cs",
   "PreviewInSolutionExplorer": false
 }

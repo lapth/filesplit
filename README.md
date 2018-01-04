@@ -11,4 +11,4 @@ dotnet FileSplit.dll s/j [original file/the first sub file] [split files path/or
 
 Example 1: dotnet FileSplit.dll s "c:\path\file.data"  "c:\subfile_folder" 100000
 
-Example 2: dotnet FileSplit.dll j "c:\subfile_folder\filename.ext.001" "c:\path\file.ext"
+Example 2: dotnet FileSplit.dll j "c:\subfile_folder\filename.ext.001" "c:\path"
